@@ -1,0 +1,10 @@
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\CST-150MilestoneAG.exe.config
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\CST-150MilestoneAG.exe
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\CST-150MilestoneAG.pdb
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.csproj.AssemblyReference.cache
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST_150MilestoneAG.Form1.resources
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST_150MilestoneAG.Properties.Resources.resources
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.csproj.GenerateResource.cache
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.csproj.CoreCompileInputs.cache
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.exe
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.pdb
