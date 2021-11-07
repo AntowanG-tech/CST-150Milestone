@@ -8,3 +8,12 @@ C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150Milestone
 C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.csproj.CoreCompileInputs.cache
 C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.exe
 C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.pdb
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\ClosedXML.dll
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\ExcelNumberFormat.dll
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\System.IO.Packaging.dll
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\ClosedXML.pdb
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\ClosedXML.xml
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\bin\Debug\ExcelNumberFormat.xml
+C:\Users\hoodi\source\repos\CST-150Milestone\CST-150MilestoneAG\CST-150MilestoneAG\obj\Debug\CST-150MilestoneAG.csproj.CopyComplete

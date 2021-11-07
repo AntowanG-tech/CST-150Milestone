@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CST_150MilestoneAG
 {
-    public class Blanket
+    public class Blanket 
     {
             private int id;       //id blanket entry in database
             private string type; //the type of blanket
@@ -15,9 +15,10 @@ namespace CST_150MilestoneAG
             private string material; //the material the blanket is made of
             private string size; //general sizes of the blanket
             private double price; // price of the blanket
+            private int qty;          //quanity of blankets
 
             //Blanket object non-default constructor
-            public Blanket(int id, string type, string shape, string color, string material, string size, double price)
+            public Blanket(int id, string type, string shape, string color, string material, string size, double price, int qty)
             {
                 this.id = id;
                 this.type = type;
@@ -26,6 +27,7 @@ namespace CST_150MilestoneAG
                 this.material = material;
                 this.size = size;
                 this.price = price;
+                this.qty = qty;
             }
 
             //default Blanket constructor
@@ -42,6 +44,17 @@ namespace CST_150MilestoneAG
         public string Material { get; set; }
         public string Size { get; set; }
         public double Price { get; set; }
+        public int Qty { get; set; }
+
+        public override string ToString()
+        {
+            String blanketString = "ID: " + this.id + Environment.NewLine + "Type: " + type + Environment.NewLine + "Shape: " + shape + Environment.NewLine + "Color: " + color + Environment.NewLine + "Material: " + material + Environment.NewLine + "Size: " + size + Environment.NewLine + "Price: " + price + Environment.NewLine + "Quantity: " + qty;
+            return blanketString;
+        }
+
+       
+
+
 
 
     }
